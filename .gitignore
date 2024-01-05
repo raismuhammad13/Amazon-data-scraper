@@ -1,0 +1,4 @@
+venv
+utils/config.ini
+.vscode
+__pycache__
